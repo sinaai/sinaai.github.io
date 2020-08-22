@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sina Bagherinezhad"
+title                    : "Sina's Personal Website"
 title_separator          : "-"
-name                     : &name "Sina's Personal Website"
+name                     : &name "Sina Bagherinezhad"
 description              : &description "Sina Bagherinezhad Personal website"
 url                      : https://sinaai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -99,11 +99,11 @@ author:
   github           : "sinaai"
   google_plus      :
   keybase          :
-  instagram        : "http://instagram.com/oudsina"
+  instagram        : "oudsina"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/bagherinezhad"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "bagherinezhad"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
