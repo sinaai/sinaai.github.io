@@ -6,13 +6,13 @@ main:
   - title: "Certificates"
     url: /certificates/
     
-  - title: "Research Experiances"
+  - title: "Research"
     url: /research/
 
-  - title: "Teaching Experiances"
+  - title: "Teaching"
     url: /teaching/
     
-  - title: "Work Experiances"
+  - title: "Work"
     url: /work/
     
   - title: "Life and Hobbies"
