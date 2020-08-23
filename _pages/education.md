@@ -5,6 +5,8 @@ permalink: /education/
 author_profile: true
 ---
 
+![ut](https://en.wikipedia.org/wiki/University_of_Tehran#/media/File:University_of_Tehran_logo.svg)
+
 ## [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
 Issued by deeplearning.ai
