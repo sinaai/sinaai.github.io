@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-MS Student in Artificial Intelligence and Robotics at [Iran University of Science and Technology](http://www.iust.ac.ir/en). Hold an other master degree in Technology Management from [University of Tehran](https://ut.ac.ir/en) and a BS degree in Industrial Engineering.
+MS Student in Artificial Intelligence and Robotics at the [Iran University of Science and Technology](http://www.iust.ac.ir/en). Hold an other master degree in Technology Management from the [University of Tehran](https://ut.ac.ir/en) and a BS degree in Industrial Engineering.
 
 Intrested in new technologies, innovation and artificial intelligence. Have some experiences in strategic management and develop technology development strategy.
 
