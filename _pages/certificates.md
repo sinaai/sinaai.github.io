@@ -5,7 +5,7 @@ permalink: /certificates/
 author_profile: true
 ---
 
-### [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+## [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
 Issued by deeplearning.ai
 
@@ -18,7 +18,7 @@ Issued by deeplearning.ai
 |  Sequence Models                                                                        |July 2020 |[FFUSBN3U5FZA](http://coursera.org/verify/FFUSBN3U5FZA) |
 
 
-### [Coursera Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning)
+## [Coursera Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning)
 
 Issued by University of Alberta and Alberta Machine Intelligence Institute
 
