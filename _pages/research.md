@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Education"
-permalink: /education/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 ### Iran University of Science and Technology (2019 - 2021 (anticipated)) [GPA: 16.24 out of 20]
