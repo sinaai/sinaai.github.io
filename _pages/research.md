@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Industrial Researches:
-I was a Technology consultant in the [Niroo Research Institute](https://www.nri.ac.ir/en) (2014 - 2016). We develop some technology strategy for Iran Ministry of Energy:
+I was a part-time Technology consultant in the [Niroo Research Institute](https://www.nri.ac.ir/en) (2014 - 2016). We develop some technology strategy for Iran Ministry of Energy:
 * Develop CCHP technology strategy
 * Gas turbine technology development strategy
 * Operation and maintenance technologies development strategy
@@ -15,9 +15,9 @@ I was a Technology consultant in the [Niroo Research Institute](https://www.nri.
 I was a Technology consultant in [The Iran’s Supreme Council for Science, Research and Technology](https://www.atf.gov.ir/en/home) for this project (2017 - 2018):
 * [Develop micro-turbines development strategy](http://microturbine.kashanu.ac.ir/)
 
-I was a technical feasibility study for:
-* Production and development of 350-ft Jack up in Iran
-* Production some drugs in some knowledge-based companies of pharmaceutical industry 
+Technical feasibility study for:
+* Production and development of 350-ft Jack up in Iran (2015)
+* Production some drugs in some knowledge-based companies of pharmaceutical industry (2014 - 2015)
 
 ### Conference papers:
 Asgharizadeh, E., Izadbin, F., Bagherinezhad, S. (2015). “Technological Capability Audit by Technology Atlas Model”, International Conference on Management and Industrial Engineering, Tehran, IRAN ([in Farsi](https://www.civilica.com/Paper-ICMI01-ICMI01_076=%D9%85%D9%85%DB%8C%D8%B2%DB%8C-%D8%AA%D9%88%D8%A7%D9%86%D9%85%D9%86%D8%AF%DB%8C-%D9%87%D8%A7%DB%8C-%D8%AA%DA%A9%D9%86%D9%88%D9%84%D9%88%DA%98%DB%8C%DA%A9-%D8%A8%D9%86%DA%AF%D8%A7%D9%87-%D8%A8%D9%87-%DA%A9%D9%85%DA%A9-%D9%85%D8%AF%D9%84-%D8%A7%D8%B7%D9%84%D8%B3-%D8%AA%DA%A9%D9%86%D9%88%D9%84%D9%88%DA%98%DB%8C.html))
