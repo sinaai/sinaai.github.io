@@ -5,7 +5,7 @@ permalink: /certificates/
 author_profile: true
 ---
 
-## [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+## [Coursera Deep Learning Specialization](https://www.coursera.org/verify/specialization/33BSNV629469)
 
 Issued by deeplearning.ai
 
