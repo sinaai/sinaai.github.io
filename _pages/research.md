@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 ### Current Research:
-Research on scalability of multi-agent reinforcement learning for my masters seminar. My supervisior is [Dr. Nasser Mozayani](http://webpages.iust.ac.ir/mozayani/).
+Research on scalability of multi-agent reinforcement learning for my masters seminar. My supervisor is [Dr. Nasser Mozayani](http://webpages.iust.ac.ir/mozayani/).
 
 ### Thesis:
 "[Determining innovation risks in research and development phases: an application of qualitive research in pharmaceutical industry](https://thesis2.ut.ac.ir/thesis/UTCatalog/UTThesis/Forms/ThesisDetail.aspx?thesisID=d5a5a476-eb02-4029-adc3-c4d50a63f35f&articleID=cd70ea57-f548-43cb-b945-3db79b16276f)", Supervisior: [Dr. Nima Garoosi Mokhtarzadeh](https://rtis2.ut.ac.ir/cv/mokhtarzadeh/?lang=en-gb#activity-11),
