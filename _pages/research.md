@@ -4,6 +4,10 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+### Thesis:
+##### Thesis for MSc. Technology Management at the [University of Tehran](https://ut.ac.ir/en):
+"[Determining innovation risks in research and development phases: an application of qualitive research in pharmaceutical industry](https://thesis2.ut.ac.ir/thesis/UTCatalog/UTThesis/Forms/ThesisDetail.aspx?thesisID=d5a5a476-eb02-4029-adc3-c4d50a63f35f&articleID=cd70ea57-f548-43cb-b945-3db79b16276f)", Supervisior: [Dr. Nima Garoosi Mokhtarzadeh](https://rtis2.ut.ac.ir/cv/mokhtarzadeh/?lang=en-gb#activity-11),
+Consultant: [Dr. Mohammad Reza Sadeghi Moghadam](https://rtis2.ut.ac.ir/cv/rezasadeghi/?lang=en-gb#activity-12) (2017)
 
 ### Industrial Researches:
 I was a part-time Technology consultant in the [Niroo Research Institute](https://www.nri.ac.ir/en) (2014 - 2016). We develop some technology strategy for Iran Ministry of Energy:
