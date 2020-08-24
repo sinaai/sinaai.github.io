@@ -6,14 +6,14 @@ author_profile: true
 ---
 
 ### Industrial Researches:
-I was a Technology consultant in the [Niroo Research Institute](https://www.nri.ac.ir/en) (2014 - 2016). We develop technology strategy for Iran Ministry of Energy:
+I was a Technology consultant in the [Niroo Research Institute](https://www.nri.ac.ir/en) (2014 - 2016). We develop some technology strategy for Iran Ministry of Energy:
 * Develop CCHP technology strategy
 * Gas turbine technology development strategy
 * Operation and maintenance technologies development strategy
 * Planning strategy for development increasing efficiency technologies in thermal power stations
 
 I was a Technology consultant in [The Iran’s Supreme Council for Science, Research and Technology](https://www.atf.gov.ir/en/home) for this project (2017 - 2018):
-* [develop micro-turbines development strategy](http://microturbine.kashanu.ac.ir/)
+* [Develop micro-turbines development strategy](http://microturbine.kashanu.ac.ir/)
 
 I was a technical feasibility study for:
 * Production and development of 350-ft Jack up in Iran
