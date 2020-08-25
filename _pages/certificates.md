@@ -25,6 +25,6 @@ Issued by University of Alberta and Alberta Machine Intelligence Institute
 |Name                                                                                     |Issue Date|Credential ID                                           |
 |  -------------------------------------------------------------------------------------- |--------- |--------------------------------------------------------|
 |  Fundamentals of Reinforcement Learning                                                 |May 2020  |[URUH3CHBCU2N](http://coursera.org/verify/URUH3CHBCU2N) |
-|  Sample-based Learning Methods                                                          |Agu 2020  |[CGA664NWXY34](http://coursera.org/verify/CGA664NWXY34) |
+|  Sample-based Learning Methods                                                          |Aug 2020  |[CGA664NWXY34](http://coursera.org/verify/CGA664NWXY34) |
 |  Prediction and Control with Function Approximation                                     |Soon      |  |
 |  A Complete Reinforcement Learning System (Capstone)                                    |Soon      |  |
