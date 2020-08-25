@@ -14,8 +14,8 @@ Some courses: Machine learning, Pattern recognition, Neural networks, Computer v
 
 ### University of Tehran (2014 - 2017) [GPA: 16.34 out of 20]
 I have a MSc in Technology Management from [Faculty of Management](https://management.ut.ac.ir/) of the [University of Tehran](https://ut.ac.ir/en).
-For [my Master's thesis](https://thesis2.ut.ac.ir/thesis/UTCatalog/UTThesis/Forms/ThesisDetail.aspx?thesisID=d5a5a476-eb02-4029-adc3-c4d50a63f35f&articleID=cd70ea57-f548-43cb-b945-3db79b16276f)
-, I use qualitive research methods to determine innovation risks of R&D phases in Iran pharmaceutical industry. 
+For [my Master's thesis](https://thesis2.ut.ac.ir/thesis/UTCatalog/UTThesis/Forms/ThesisDetail.aspx?thesisID=d5a5a476-eb02-4029-adc3-c4d50a63f35f&articleID=cd70ea57-f548-43cb-b945-3db79b16276f),
+I use qualitive research methods to determine innovation risks of R&D phases in Iran pharmaceutical industry. 
 My master supervisor was [Dr. Nima Garoosi Mokhtarzadeh](https://rtis2.ut.ac.ir/cv/mokhtarzadeh/?lang=en-gb#activity-11) and I use the consultant of
 [Dr. Mohammad Reza Sadeghi Moghadam](https://rtis2.ut.ac.ir/cv/rezasadeghi/?lang=en-gb#activity-12).
 
