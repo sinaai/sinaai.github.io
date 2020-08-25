@@ -28,3 +28,14 @@ Issued by University of Alberta and Alberta Machine Intelligence Institute
 |  Sample-based Learning Methods                                                          |Aug 2020  |[CGA664NWXY34](http://coursera.org/verify/CGA664NWXY34) |
 |  Prediction and Control with Function Approximation                                     |Soon      |  |
 |  A Complete Reinforcement Learning System (Capstone)                                    |Soon      |  |
+
+## [DeepLearning.AI TensorFlow Developer Professional Certificate program](https://www.deeplearning.ai/tensorflow-in-practice/)
+
+Issued by deeplearning.ai
+
+|Name                                                                                     |Issue Date|Credential ID                                           |
+|  -------------------------------------------------------------------------------------- |--------- |--------------------------------------------------------|
+|  Introduction to TensorFlow for AI, ML and DL                                           |Aug 2020  |[8YXNEZELVLBH](http://coursera.org/verify/8YXNEZELVLBH) |
+|  Convolutional Neural Networks in TensorFlow                                            |Soon      |  |
+|  Natural Language Processing in TensorFlow                                              |Soon      |  |
+|  Sequences, Time Series, and Prediction                                                 |Soon      |  |
