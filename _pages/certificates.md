@@ -29,7 +29,7 @@ Issued by University of Alberta and Alberta Machine Intelligence Institute
 |  Prediction and Control with Function Approximation                                     |Soon      |  |
 |  A Complete Reinforcement Learning System (Capstone)                                    |Soon      |  |
 
-## [DeepLearning.AI TensorFlow Developer Professional Certificate program](https://www.deeplearning.ai/tensorflow-in-practice/)
+## [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.deeplearning.ai/tensorflow-in-practice/)
 
 Issued by deeplearning.ai
 
