@@ -26,7 +26,7 @@ Issued by University of Alberta and Alberta Machine Intelligence Institute
 |  -------------------------------------------------------------------------------------- |--------- |--------------------------------------------------------|
 |  Fundamentals of Reinforcement Learning                                                 |May 2020  |[URUH3CHBCU2N](http://coursera.org/verify/URUH3CHBCU2N) |
 |  Sample-based Learning Methods                                                          |Aug 2020  |[CGA664NWXY34](http://coursera.org/verify/CGA664NWXY34) |
-|  Prediction and Control with Function Approximation                                     |Soon      |  |
+|  Prediction and Control with Function Approximation                                     |Aug 2020  |[28GFREZKFHLA](http://coursera.org/verify/28GFREZKFHLA) |
 |  A Complete Reinforcement Learning System (Capstone)                                    |Soon      |  |
 
 ## [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.deeplearning.ai/tensorflow-in-practice/)
