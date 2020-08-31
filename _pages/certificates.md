@@ -36,6 +36,6 @@ Issued by deeplearning.ai
 |Name                                                                                     |Issue Date|Credential ID                                           |
 |  -------------------------------------------------------------------------------------- |--------- |--------------------------------------------------------|
 |  Introduction to TensorFlow for AI, ML and DL                                           |Aug 2020  |[8YXNEZELVLBH](http://coursera.org/account/accomplishments/certificate/8YXNEZELVLBH) |
-|  Convolutional Neural Networks in TensorFlow                                            |Soon      |  |
+|  Convolutional Neural Networks in TensorFlow                                            |Aug 2020  |[ANRXFE7UDNHD](http://coursera.org/account/accomplishments/certificate/ANRXFE7UDNHD) |
 |  Natural Language Processing in TensorFlow                                              |Soon      |  |
 |  Sequences, Time Series, and Prediction                                                 |Soon      |  |
