@@ -37,5 +37,5 @@ Issued by deeplearning.ai
 |  -------------------------------------------------------------------------------------- |--------- |--------------------------------------------------------|
 |  Introduction to TensorFlow for AI, ML and DL                                           |Aug 2020  |[8YXNEZELVLBH](http://coursera.org/account/accomplishments/certificate/8YXNEZELVLBH) |
 |  Convolutional Neural Networks in TensorFlow                                            |Aug 2020  |[ANRXFE7UDNHD](http://coursera.org/account/accomplishments/certificate/ANRXFE7UDNHD) |
-|  Natural Language Processing in TensorFlow                                              |Soon      |  |
+|  Natural Language Processing in TensorFlow                                              |Sep 2020  |[9MK7622P75L9](http://coursera.org/account/accomplishments/certificate/9MK7622P75L9) |
 |  Sequences, Time Series, and Prediction                                                 |Soon      |  |
