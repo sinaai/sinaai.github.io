@@ -18,7 +18,7 @@ Issued by deeplearning.ai
 |  Sequence Models                                                                        |July 2020 |[FFUSBN3U5FZA](http://coursera.org/account/accomplishments/certificate/FFUSBN3U5FZA) |
 
 
-## [Coursera Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning)
+## [Coursera Reinforcement Learning Specialization](https://www.coursera.org/verify/specialization/XY7B4779GK3B)
 
 Issued by University of Alberta and Alberta Machine Intelligence Institute
 
@@ -27,7 +27,7 @@ Issued by University of Alberta and Alberta Machine Intelligence Institute
 |  Fundamentals of Reinforcement Learning                                                 |May 2020  |[URUH3CHBCU2N](http://coursera.org/account/accomplishments/certificate/URUH3CHBCU2N) |
 |  Sample-based Learning Methods                                                          |Aug 2020  |[CGA664NWXY34](http://coursera.org/account/accomplishments/certificate/CGA664NWXY34) |
 |  Prediction and Control with Function Approximation                                     |Aug 2020  |[28GFREZKFHLA](http://coursera.org/account/accomplishments/certificate/28GFREZKFHLA) |
-|  A Complete Reinforcement Learning System (Capstone)                                    |Soon      |  |
+|  A Complete Reinforcement Learning System (Capstone)                                    |Sep 2020  |[LWPYJQ8WFGES](http://coursera.org/account/accomplishments/certificate/LWPYJQ8WFGES) |
 
 ## [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.deeplearning.ai/tensorflow-in-practice/)
 
