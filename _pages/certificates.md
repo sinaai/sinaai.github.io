@@ -29,7 +29,7 @@ Issued by University of Alberta and Alberta Machine Intelligence Institute
 |  Prediction and Control with Function Approximation                                     |Aug 2020  |[28GFREZKFHLA](http://coursera.org/account/accomplishments/certificate/28GFREZKFHLA) |
 |  A Complete Reinforcement Learning System (Capstone)                                    |Sep 2020  |[LWPYJQ8WFGES](http://coursera.org/account/accomplishments/certificate/LWPYJQ8WFGES) |
 
-## [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.deeplearning.ai/tensorflow-in-practice/)
+## [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/verify/specialization/9PUR9M5TVVNB)
 
 Issued by deeplearning.ai
 
@@ -38,4 +38,4 @@ Issued by deeplearning.ai
 |  Introduction to TensorFlow for AI, ML and DL                                           |Aug 2020  |[8YXNEZELVLBH](http://coursera.org/account/accomplishments/certificate/8YXNEZELVLBH) |
 |  Convolutional Neural Networks in TensorFlow                                            |Aug 2020  |[ANRXFE7UDNHD](http://coursera.org/account/accomplishments/certificate/ANRXFE7UDNHD) |
 |  Natural Language Processing in TensorFlow                                              |Sep 2020  |[9MK7622P75L9](http://coursera.org/account/accomplishments/certificate/9MK7622P75L9) |
-|  Sequences, Time Series, and Prediction                                                 |Soon      |  |
+|  Sequences, Time Series, and Prediction                                                 |Sep 2020  |[4N637Q2EAU6L](http://coursera.org/account/accomplishments/certificate/4N637Q2EAU6L) |
