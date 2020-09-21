@@ -29,7 +29,7 @@ Issued by University of Alberta and Alberta Machine Intelligence Institute
 |  Prediction and Control with Function Approximation                                     |Aug 2020  |[28GFREZKFHLA](http://coursera.org/account/accomplishments/certificate/28GFREZKFHLA) |
 |  A Complete Reinforcement Learning System (Capstone)                                    |Sep 2020  |[LWPYJQ8WFGES](http://coursera.org/account/accomplishments/certificate/LWPYJQ8WFGES) |
 
-## [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/verify/specialization/9PUR9M5TVVNB)
+## [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/verify/professional-cert/9PUR9M5TVVNB)
 
 Issued by deeplearning.ai
 
