@@ -9,7 +9,7 @@ I'm a final-year masters degree student in Artificial Intelligence and Robotics 
 the [Iran University of Science and Technology](http://www.iust.ac.ir/en). My master advisor is [Dr. Nasser Mozayani](http://webpages.iust.ac.ir/mozayani/). With
 whom I research on scalability of multi-agent reinforcement learning (MARL) in Soft Computing and Multi-agent Systems laboratory (SCOMAS lab). 
 
-Some courses: Machine learning, Pattern recognition, Neural networks, Computer vison , Multi-agent system and Data mining.
+Some courses: Machine learning, Pattern recognition, Neural networks, Computer vison, Deep learning, Multi-agent system and Data mining.
 
 
 ### University of Tehran (2014 - 2017) [GPA: 16.34 out of 20]
