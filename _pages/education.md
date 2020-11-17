@@ -22,7 +22,7 @@ My master supervisor was [Dr. Nima Garoosi Mokhtarzadeh](https://rtis2.ut.ac.ir/
 Some courses: Strategic management, Technology evaluation, Technology forecasting, Operations management, Non-parametric statistics and Multiple-criteria
 decision analysis.
 
-### Karaj Azad University (2008 - 2012)
+### Karaj Azad University (2007 - 2012)
 I have a BS in Industrial Engineering from [Faculty of Engineering](http://engineering.kiau.ac.ir/fa) of the [Karaj Azad University](http://www.kiau.ac.ir/). 
 There I learnt a lot of industrial solotions and I was well in statistics and operation research. So I was TA of [Dr. Sadoullah Ebrahimnejad](https://www.researchgate.net/profile/Sadoullah_Ebrahimnejad) for two academic years (2010 - 2012).
 
