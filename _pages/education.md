@@ -7,7 +7,7 @@ author_profile: true
 ### Iran University of Science and Technology (2019 - 2021 (anticipated)) [GPA: 16.24 out of 20]
 I'm a final-year masters degree student in Artificial Intelligence and Robotics at [school of computer engineeing](http://ce-inter.iust.ac.ir/) of
 the [Iran University of Science and Technology](http://www.iust.ac.ir/en). My master advisor is [Dr. Nasser Mozayani](http://webpages.iust.ac.ir/mozayani/). With
-whom I research on scalability of multi-agent reinforcement learning (MARL) in Soft Computing and Multi-agent Systems laboratory (SCOMAS lab). 
+whom I Factors affecting mortality rate and hospitalization length of COVID-19 patients. 
 
 Some courses: Machine learning, Pattern recognition, Neural networks, Computer vison, Deep learning, Multi-agent system and Data mining.
 
