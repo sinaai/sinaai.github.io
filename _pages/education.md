@@ -4,7 +4,7 @@ title: "Education"
 permalink: /education/
 author_profile: true
 ---
-### Iran University of Science and Technology (2019 - 2021 (anticipated)) [GPA: 16.60 out of 20]
+### Iran University of Science and Technology (2019 - 2021 (anticipated)) [GPA: 16.79 out of 20]
 I'm a final-year masters degree student in Artificial Intelligence and Robotics at [school of computer engineeing](http://ce-inter.iust.ac.ir/) of
 the [Iran University of Science and Technology](http://www.iust.ac.ir/en). My master advisor is [Dr. Nasser Mozayani](http://webpages.iust.ac.ir/mozayani/). With
 whom I research on factors affecting mortality rate and hospitalization length of COVID-19 patients. 
