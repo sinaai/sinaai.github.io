@@ -12,7 +12,7 @@ Research on factors affecting mortality rate and hospitalization length of COVID
 Consultant: [Dr. Mohammad Reza Sadeghi Moghadam](https://rtis2.ut.ac.ir/cv/rezasadeghi/?lang=en-gb#activity-12), University of Tehran (2017)
 
 ### Journal Articles:
-Bagheri Nezhad, S., Abdi, E., Mozayani, N., Mehrafza, M., (2021). "Investigation of the smoking prevalence among critically ill patients with COVID-19", Journal of Control. (Accepted)
+[Bagheri Nezhad, S., Abdi, E., Mozayani, N., Mehrafza, M., (2021). "Investigation of the smoking prevalence among critically ill patients with COVID-19", Journal of Control](http://joc.kntu.ac.ir/article-1-816-en.html)
 
 ### Industrial Researches:
 I was a part-time Technology consultant in the [Niroo Research Institute](https://www.nri.ac.ir/en) (2014 - 2016). We develop some technology strategy for Iran Ministry of Energy:
