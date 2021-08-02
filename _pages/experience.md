@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 ### Teaching experience:
-[Iran University of Science and Technology](http://www.iust.ac.ir/en), Neural Networks, Teacher Assistant of [Dr. Nasser Mozayani](http://webpages.iust.ac.ir/mozayani/) (2020 - Now)
+[Iran University of Science and Technology](http://www.iust.ac.ir/en), Neural Networks, Teacher Assistant of [Dr. Nasser Mozayani](http://webpages.iust.ac.ir/mozayani/) (2020 - 2021)
 
 [University of Tehran](https://ut.ac.ir/en), Non-parametric statistics for master’s students, Teacher Assistant of [Dr. Ezzatiollah Asgharizadeh](https://profile.ut.ac.ir/en/~asghari) (2014 - 2015)
 
