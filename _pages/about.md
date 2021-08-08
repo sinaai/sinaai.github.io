@@ -12,7 +12,7 @@ MS Student in Artificial Intelligence and Robotics at the [Iran University of Sc
 
 Interested in new technologies, innovation and artificial intelligence. Have some experience in strategic management and develop technology development strategy.
 
-Areas of interests: Reinforcement Learning, Applied Machine Learning, Innovation, Distributed Artificial Intelligence
+Areas of interests: Machine Learning, Artificial Intelligence, Optimization, Data mining
 
 
 
