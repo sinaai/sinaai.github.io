@@ -18,10 +18,6 @@ CEO and Founder, ElectroSadaf Engineering Group (Apr 2012 - now)
 
 Project Control Expert, [GS1 Iran](http://gs1ir.net/en/uk/) (Apr 2016 - Jul 2016)
 
-Technology Consultant (part-time), [Niroo Research Institute](https://www.nri.ac.ir/en) (Feb 2014 - Jan 2016)
-
-Technology Auditor, Novin Pajoohan Research Institute (Agu 2014 - Nov 2015)
-
 Seller (part-time), AFACO (Jan 2008 - Apr 2012)
 
 Summer Intern, [Iran Dairy Industries Co.](http://pegah-en.pegah.ir/) (Jul 2011 - Sep 2011)
