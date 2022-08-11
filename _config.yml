@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sina Bagherinezhad"
+  name             : "Sina Bagheri Nezhad"
   avatar           : "avatar.jpg"
-  bio              : "Machine Learning Fan! | Seeking a PhD position in top grad schools to research on Machine learning and its applications"
-  location         : "Karaj, Iran"
+  bio              : "Computer Science PhD Student at the Portland State University"
+  location         : "Portland, OR"
   employer         : 
   pubmed           : 
   googlescholar    :  "https://scholar.google.com/citations?user=MCgmptEAAAAJ&hl=en"
-  email            :  s_bagherinezhad@comp.iust.ac.ir
+  email            :  sina.bagherinezhad@pdx.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
