@@ -4,10 +4,14 @@ title: "Education"
 permalink: /education/
 author_profile: true
 ---
-### Iran University of Science and Technology (2019 - 2021 (anticipated)) [GPA: 17 out of 20]
-I'm a final-year masters degree student in Artificial Intelligence and Robotics at [school of computer engineeing](http://ce-inter.iust.ac.ir/) of
-the [Iran University of Science and Technology](http://www.iust.ac.ir/en). My master advisor is [Dr. Nasser Mozayani](http://webpages.iust.ac.ir/mozayani/). With
-whom I research on factors affecting mortality rate and hospitalization length of COVID-19 patients. 
+### Portland State University (2022 - 2026 (anticipated))
+I am a PhD student in Computer Science at [The Maseeh College of Engineering and Computer Science](https://www.pdx.edu/engineering/) of
+the [Portland State University](https://www.pdx.edu/). My advisor is [Dr. Ameeta Agrawal](https://web.cecs.pdx.edu/~ameeta/).
+
+
+### Iran University of Science and Technology (2019 - 2021) [GPA: 17 out of 20]
+I studied in Artificial Intelligence and Robotics at [school of computer engineeing](http://ce-inter.iust.ac.ir/) of
+the [Iran University of Science and Technology](http://www.iust.ac.ir/en). My master advisor is [Dr. Nasser Mozayani](http://webpages.iust.ac.ir/mozayani/). With whom I researched on factors affecting mortality rate and hospitalization length of COVID-19 patients. 
 
 Some courses: Machine learning, Pattern recognition, Neural networks, Computer vison, Deep learning, Multi-agent system and Data mining.
 
