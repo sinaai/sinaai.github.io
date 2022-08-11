@@ -8,14 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-MS Student in Artificial Intelligence and Robotics at the [Iran University of Science and Technology](http://www.iust.ac.ir/en). Previously got a master degree in Technology Management from the [University of Tehran](https://ut.ac.ir/en) and a BS degree in Industrial Engineering.
+PhD Student in Computer Science at the [Portland State University](http://www.pdx.edu). Previously got two master degrees in Artificial Intelligence from the [Iran University of Science and Technology](http://www.iust.ac.ir/en) and Technology Management from the [University of Tehran](https://ut.ac.ir/en). My undergraduate studies was in Industrial Engineering.
 
-Interested in new technologies, innovation and artificial intelligence. Have some experience in strategic management and develop technology development strategy.
+Interested in new technologies, innovation and artificial intelligence. Have some experience in software engineering and develop technology development strategy.
 
 Areas of interests: Machine Learning, Artificial Intelligence, Optimization, Data mining
-
-
-
-
-
-Duolingo English score: [125](https://certs.duolingo.com/fkqcvg9p)
