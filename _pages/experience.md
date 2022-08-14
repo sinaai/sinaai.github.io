@@ -14,7 +14,9 @@ author_profile: true
 [Karaj Azad University](http://www.kiau.ac.ir/en), Statistics, Teacher Assistant of [Dr. Saadullah Ebrahimnezhad](https://www.researchgate.net/profile/Sadoullah_Ebrahimnejad) (2010 - 2012)
 
 ### Working experience:
-CEO and Founder, ElectroSadaf Engineering Group (Apr 2012 - now)
+Head of Software Development, Basir Andishan Bina Tadbir (Aug 2021 - Aug 2022)
+
+CEO and Founder, ElectroSadaf Engineering Group (Apr 2012 - Mar 2022)
 
 Project Control Expert, [GS1 Iran](http://gs1ir.net/en/uk/) (Apr 2016 - Jul 2016)
 
