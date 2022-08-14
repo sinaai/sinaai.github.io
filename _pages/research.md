@@ -7,6 +7,7 @@ author_profile: true
 
 ### Thesis:
 "Using machine learning methods to determine factors affecting mortality rate and hospitalization length of COVID-19 patients", Advisor: [Dr. Nasser Mozayani](http://webpages.iust.ac.ir/mozayani/), Iran University of Science and Technology (2021)
+
 "[Determining innovation risks in research and development phases: an application of qualitative research in the pharmaceutical industry](https://thesis2.ut.ac.ir/thesis/UTCatalog/UTThesis/Forms/ThesisDetail.aspx?thesisID=d5a5a476-eb02-4029-adc3-c4d50a63f35f&articleID=cd70ea57-f548-43cb-b945-3db79b16276f)", Advisor: [Dr. Nima Garoosi Mokhtarzadeh](https://rtis2.ut.ac.ir/cv/mokhtarzadeh/?lang=en-gb#activity-11),
 Consultant: [Dr. Mohammad Reza Sadeghi Moghadam](https://rtis2.ut.ac.ir/cv/rezasadeghi/?lang=en-gb#activity-12), University of Tehran (2017)
 
