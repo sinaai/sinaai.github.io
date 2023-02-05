@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### Portland State University (2022 - 2026 (anticipated))
 I am a PhD student in Computer Science at [The Maseeh College of Engineering and Computer Science](https://www.pdx.edu/engineering/) of
-the [Portland State University](https://www.pdx.edu/). My advisor is [Dr. Ameeta Agrawal](https://web.cecs.pdx.edu/~ameeta/).
+the [Portland State University](https://www.pdx.edu/). I am a member of [PortNLP lab](https://nlp.cs.pdx.edu). My advisor is [Dr. Ameeta Agrawal](https://web.cecs.pdx.edu/~ameeta/).
 
 
 ### Iran University of Science and Technology (2019 - 2021) [GPA: 17 out of 20]
