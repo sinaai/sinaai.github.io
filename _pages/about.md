@@ -12,4 +12,4 @@ PhD Student in Computer Science at the [Portland State University](http://www.pd
 
 Interested in new technologies, innovation and artificial intelligence. Have some experience in software engineering and developing technology development strategies.
 
-Areas of interests: Machine Learning, Artificial Intelligence, Optimization, Data mining
+Areas of interests: Natural Language Processing, Machine Learning, Artificial Intelligence
