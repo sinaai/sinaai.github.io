@@ -1,8 +1,8 @@
 ---
-<!-- layout: archive
+layout: archive
 title: "Experience"
 permalink: /experience/
-author_profile: true -->
+author_profile: true
 ---
 ### Teaching experience:
 [Iran University of Science and Technology](http://www.iust.ac.ir/en), Neural Networks, Teacher Assistant of [Dr. Nasser Mozayani](http://webpages.iust.ac.ir/mozayani/) (2020 - 2021)
