@@ -9,14 +9,14 @@ I am a PhD student in Computer Science at [The Maseeh College of Engineering and
 the [Portland State University](https://www.pdx.edu/). I am a member of [PortNLP lab](https://nlp.cs.pdx.edu). My advisor is [Dr. Ameeta Agrawal](https://web.cecs.pdx.edu/~ameeta/).
 
 
-### Iran University of Science and Technology (2019 - 2021) [GPA: 17 out of 20]
+### Iran University of Science and Technology (2019 - 2021)
 I studied in Artificial Intelligence and Robotics at [school of computer engineeing](http://ce-inter.iust.ac.ir/) of
 the [Iran University of Science and Technology](http://www.iust.ac.ir/en). My master advisor is [Dr. Nasser Mozayani](http://webpages.iust.ac.ir/mozayani/). With whom I researched on factors affecting mortality rate and hospitalization length of COVID-19 patients. 
 
 Some courses: Machine learning, Pattern recognition, Neural networks, Computer vison, Deep learning, Multi-agent system and Data mining.
 
 
-### University of Tehran (2014 - 2017) [GPA: 16.34 out of 20]
+### University of Tehran (2014 - 2017)
 I have a MSc in Technology Management from [Faculty of Management](https://management.ut.ac.ir/) of the [University of Tehran](https://ut.ac.ir/en).
 For [my Master's thesis](https://thesis2.ut.ac.ir/thesis/UTCatalog/UTThesis/Forms/ThesisDetail.aspx?thesisID=d5a5a476-eb02-4029-adc3-c4d50a63f35f&articleID=cd70ea57-f548-43cb-b945-3db79b16276f),
 I use qualitive research methods to determine innovation risks of R&D phases in Iran pharmaceutical industry. 
