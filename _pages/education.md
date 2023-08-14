@@ -10,7 +10,7 @@ the [Portland State University](https://www.pdx.edu/). I am a member of [PortNLP
 
 
 ### Iran University of Science and Technology (2019 - 2021)
-I studied in Artificial Intelligence and Robotics at [school of computer engineeing](http://ce-inter.iust.ac.ir/) of
+I studied in Computer Engineering - Artificial Intelligence and Robotics at [school of computer engineeing](http://ce-inter.iust.ac.ir/) of
 the [Iran University of Science and Technology](http://www.iust.ac.ir/en). My master advisor is [Dr. Nasser Mozayani](http://webpages.iust.ac.ir/mozayani/). With whom I researched on factors affecting mortality rate and hospitalization length of COVID-19 patients. 
 
 Some courses: Machine learning, Pattern recognition, Neural networks, Computer vison, Deep learning, Multi-agent system and Data mining.
