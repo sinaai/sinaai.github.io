@@ -12,7 +12,7 @@ author_profile: true
 Consultant: [Dr. Mohammad Reza Sadeghi Moghadam](https://rtis2.ut.ac.ir/cv/rezasadeghi/?lang=en-gb#activity-12), University of Tehran (2017)
 
 ### Articles:
-[Bagheri Nezhad,S. & Agrawal, A. (2023). mBBC: Exploring the Multilingual Maze. arXiv preprint arXiv:2310.05404.](https://arxiv.org/abs/2310.05404)
+[Bagheri Nezhad, S. & Agrawal, A. (2023). mBBC: Exploring the Multilingual Maze. arXiv preprint arXiv:2310.05404.](https://arxiv.org/abs/2310.05404)
 
 [Bagheri Nezhad, S., Mozayani, N., Abdi, E., & Rostami, S. (2021). Smoking prevalence in Covid-19 patients. arXiv preprint arXiv:2107.13599.](https://arxiv.org/abs/2107.13599)
 
