@@ -12,7 +12,7 @@ author_profile: true
 Consultant: [Dr. Mohammad Reza Sadeghi Moghadam](https://rtis2.ut.ac.ir/cv/rezasadeghi/?lang=en-gb#activity-12), University of Tehran (2017)
 
 ### Articles:
-[Bagheri Nezhad, S. & Agrawal, A. (2024). What Drives Performance in Multilingual Language Models? VarDial @ NAACL 2024](https://arxiv.org/abs/2404.19159)
+[Bagheri Nezhad, S. & Agrawal, A. (2024). What Drives Performance in Multilingual Language Models? VarDial @ NAACL 2024](https://aclanthology.org/2024.vardial-1.2/)
 
 [Bagheri Nezhad, S. & Agrawal, A. (2023). Exploring the Maze of Multilingual Modeling. arXiv preprint arXiv:2310.05404.](https://arxiv.org/abs/2310.05404)
 
