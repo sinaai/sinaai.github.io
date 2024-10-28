@@ -27,8 +27,8 @@ author1:
   # Rearrange to change the order in which they appear
   # You can also provide an absolute URL (starting with https://) instead of usernames
   social:
-    twitter:         <username>
-    github:          <username>
+    # twitter:         sinab
+    github:          sinaai
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
@@ -58,7 +58,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
+    linkedin:        bagherinezhad
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
@@ -79,7 +79,7 @@ author1:
     # wechat:          https://<url>
     # discord:         <invite-code>
     # mastodon:        https://<url>
-    # x:               <username>
+    x:               sinab
 
 # Another author (optional)
 author2:
