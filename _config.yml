@@ -52,8 +52,8 @@ menu:
     url:               /
   - title:             Publication
     url:               /publications/
-  - title:             CV
-    url:               /assets/docs/Sina-CV.pdf
+  # - title:             CV
+  #   url:               /assets/docs/Sina-CV.pdf
 
 
 # Add links to the footer.
