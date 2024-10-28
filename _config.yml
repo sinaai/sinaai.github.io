@@ -20,7 +20,7 @@ url:                   https://sinaai.github.io
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Sina Bagheri Nezhad
+title:                 Sina
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -28,7 +28,7 @@ description:           >
   The personal webpage of Sina Bagheri Nezhad, an AI researcher and PhD candidate at Portland State University.
 
 # A shorter description for the sidebar.
-tagline:               AI developer and researcher
+tagline:               Sina Bagheri Nezhad, an AI researcher
 
 # A list of keywords for your blog
 keywords:              [Sina Bagheri Nezhad, AI, Artifical Intelligence, NLP, Natrual Language Processing, Fairness, Reseach, Portland State University]
