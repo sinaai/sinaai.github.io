@@ -28,8 +28,8 @@ author1:
   # You can also provide an absolute URL (starting with https://) instead of usernames
   social:
     # twitter:         sinab
-    github:          sinaai
-    # email:           <mail@domain.tld>
+    github:           sinaai
+     email:           sina.bagherinezhad@pdx.edu
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -40,7 +40,7 @@ author1:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    # instagram:       <username>
+#     instagram:       sina.bagherinezhad
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
