@@ -2,7 +2,6 @@
 title: Publications
 grouped: true
 ---
-[Google Scholar Profile](https://scholar.google.com/citations?user=EuHJq20AAAAJ&hl=en) | [Semantic Scholar Profile](https://www.semanticscholar.org/author/Sina-Bagheri-Nezhad/2257000051)
 
 - **Bagheri Nezhad, S.**, Bandyapadhyay, S., & Agrawal, A. (2024). *Fair Summarization: Bridging Quality and Diversity in Extractive Summaries*. Algorithmic Fairness through the Lens of Metrics and Evaluation Workshop @ NeurIPS 2024.
 
@@ -16,7 +15,7 @@ grouped: true
 
 - **Bagheri-Nezhad, S.**, Abdi, E., Mozayani, N., & Mehrafza, M. (2021). *Investigation of the smoking prevalence among critically ill patients with COVID-19*. Journal of Control, 14(5), 33-37. ([Journal](https://joc.kntu.ac.ir/article-1-816-en.pdf))
 
-
+[Google Scholar Profile](https://scholar.google.com/citations?user=EuHJq20AAAAJ&hl=en) | [Semantic Scholar Profile](https://www.semanticscholar.org/author/Sina-Bagheri-Nezhad/2257000051)
 
 **Professional Services:**
 - Reviewer: Computational Intelligence, SET LLM @ ICLR, LREC-COLING, CALDAM, EMNLP.
