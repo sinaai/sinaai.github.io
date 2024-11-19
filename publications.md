@@ -3,7 +3,7 @@ title: Publications
 grouped: true
 ---
 
-- **Bagheri Nezhad, S.**, Bandyapadhyay, S., & Agrawal, A. (2024). *Fair Summarization: Bridging Quality and Diversity in Extractive Summaries*. Algorithmic Fairness through the Lens of Metrics and Evaluation Workshop @ NeurIPS 2024. ([arXiv](https://arxiv.org/pdf/2411.07521))
+- **Bagheri Nezhad, S.**, Bandyapadhyay, S., & Agrawal, A. (2024). *Fair Summarization: Bridging Quality and Diversity in Extractive Summaries*. Algorithmic Fairness through the Lens of Metrics and Evaluation Workshop @ NeurIPS 2024. ([arXiv](https://arxiv.org/pdf/2411.07521), [Poster](assets/docs/Poster-FairSummarization-AFME2024.pdf))
 
 - Agrawal, A., Dang, A., **Bagheri Nezhad, S.**, Pokharel, R., & Scheinberg, R. (2024). *Evaluating Multilingual Long-Context Models for Retrieval and Reasoning*. The 4th Multilingual Representation Learning (MRL) Workshop @ EMNLP 2024. ([arXiv](https://arxiv.org/pdf/2409.18006), [ACL Anthology](https://aclanthology.org/2024.mrl-1.18.pdf))
 
