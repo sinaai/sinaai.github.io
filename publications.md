@@ -2,6 +2,7 @@
 title: Publications
 grouped: true
 ---
+- **Bagheri Nezhad, S.**, Agrawal, A., & Pokharel, R. (2025). *Beyond Data Quantity: Key Factors Driving Performance in Multilingual Language Models*. The First Workshop on Language Models for Low-Resource Languages @ COLING 2025.
 
 - **Bagheri Nezhad, S.**, Bandyapadhyay, S., & Agrawal, A. (2024). *Fair Summarization: Bridging Quality and Diversity in Extractive Summaries*. Algorithmic Fairness through the Lens of Metrics and Evaluation Workshop @ NeurIPS 2024. ([arXiv](https://arxiv.org/pdf/2411.07521), [Poster](assets/docs/Poster-FairSummarization-AFME2024.pdf))
 
