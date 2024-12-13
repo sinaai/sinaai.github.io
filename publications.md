@@ -2,13 +2,13 @@
 title: Publications
 grouped: true
 ---
-- **Bagheri Nezhad, S.**, Agrawal, A., & Pokharel, R. (2025). *Beyond Data Quantity: Key Factors Driving Performance in Multilingual Language Models*. The First Workshop on Language Models for Low-Resource Languages @ COLING 2025.
+- **Bagheri Nezhad, S.**, Agrawal, A., & Pokharel, R. (2025). *Beyond Data Quantity: Key Factors Driving Performance in Multilingual Language Models*. The First Workshop on Language Models for Low-Resource Languages @ COLING 2025. ([GitHub](https://github.com/PortNLP/SHAP-MLLM-Analysis))
 
-- **Bagheri Nezhad, S.**, Bandyapadhyay, S., & Agrawal, A. (2024). *Fair Summarization: Bridging Quality and Diversity in Extractive Summaries*. Algorithmic Fairness through the Lens of Metrics and Evaluation Workshop @ NeurIPS 2024. ([arXiv](https://arxiv.org/pdf/2411.07521), [Poster](assets/docs/Poster-FairSummarization-AFME2024.pdf))
+- **Bagheri Nezhad, S.**, Bandyapadhyay, S., & Agrawal, A. (2024). *Fair Summarization: Bridging Quality and Diversity in Extractive Summaries*. Algorithmic Fairness through the Lens of Metrics and Evaluation Workshop @ NeurIPS 2024. ([arXiv](https://arxiv.org/pdf/2411.07521), [GitHub](https://github.com/PortNLP/FairEXTSummarizer), [Poster](assets/docs/Poster-FairSummarization-AFME2024.pdf))
 
-- Agrawal, A., Dang, A., **Bagheri Nezhad, S.**, Pokharel, R., & Scheinberg, R. (2024). *Evaluating Multilingual Long-Context Models for Retrieval and Reasoning*. The 4th Multilingual Representation Learning (MRL) Workshop @ EMNLP 2024. ([arXiv](https://arxiv.org/pdf/2409.18006), [ACL Anthology](https://aclanthology.org/2024.mrl-1.18.pdf))
+- Agrawal, A., Dang, A., **Bagheri Nezhad, S.**, Pokharel, R., & Scheinberg, R. (2024). *Evaluating Multilingual Long-Context Models for Retrieval and Reasoning*. The 4th Multilingual Representation Learning (MRL) Workshop @ EMNLP 2024. ([arXiv](https://arxiv.org/pdf/2409.18006), [ACL Anthology](https://aclanthology.org/2024.mrl-1.18.pdf), [GitHub](https://github.com/PortNLP/mLongRR))
 
-- **Bagheri Nezhad, S.**, & Agrawal, A. (2024). *What Drives Performance in Multilingual Language Models?* The Eleventh Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2024) @ NAACL 2024. ([arXiv](https://arxiv.org/pdf/2404.19159), [ACL Anthology](https://aclanthology.org/2024.vardial-1.2.pdf), [Poster](assets/docs/Poster-WhatDrives-Vardial2024.pdf))
+- **Bagheri Nezhad, S.**, & Agrawal, A. (2024). *What Drives Performance in Multilingual Language Models?* The Eleventh Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2024) @ NAACL 2024. ([arXiv](https://arxiv.org/pdf/2404.19159), [ACL Anthology](https://aclanthology.org/2024.vardial-1.2.pdf), [GitHub](https://github.com/PortNLP/MLLMs_performance), [Poster](assets/docs/Poster-WhatDrives-Vardial2024.pdf))
 
 - **Bagheri Nezhad, S.**, & Agrawal, A. (2023). *Exploring the Maze of Multilingual Modeling*. arXiv preprint arXiv:2310.05404. ([arXiv](https://arxiv.org/pdf/2310.05404))
 
