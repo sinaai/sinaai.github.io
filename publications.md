@@ -2,6 +2,8 @@
 title: Publications
 grouped: true
 ---
+- Pokharel, R., **Bagheri Nezhad, S.**, Agrawal, A., & Singh, S. (2025). *The Impact of Model Scaling on Seen and Unseen Language Performance*. The First Workshop on Scalable and Efficient Artificial Intelligence Systems @ AAAI 2025. 
+
 - **Bagheri Nezhad, S.**, Agrawal, A., & Pokharel, R. (2025). *Beyond Data Quantity: Key Factors Driving Performance in Multilingual Language Models*. The First Workshop on Language Models for Low-Resource Languages @ COLING 2025. ([arXiv](https://arxiv.org/pdf/2412.12500), [GitHub](https://github.com/PortNLP/SHAP-MLLM-Analysis))
 
 - **Bagheri Nezhad, S.**, Bandyapadhyay, S., & Agrawal, A. (2024). *Fair Summarization: Bridging Quality and Diversity in Extractive Summaries*. Algorithmic Fairness through the Lens of Metrics and Evaluation Workshop @ NeurIPS 2024. ([arXiv](https://arxiv.org/pdf/2411.07521), [GitHub](https://github.com/PortNLP/FairEXTSummarizer), [Poster](assets/docs/Poster-FairSummarization-AFME2024.pdf))
