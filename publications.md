@@ -23,5 +23,5 @@ grouped: true
 [Google Scholar Profile](https://scholar.google.com/citations?user=EuHJq20AAAAJ&hl=en) | [Semantic Scholar Profile](https://www.semanticscholar.org/author/Sina-Bagheri-Nezhad/2257000051)
 
 **Professional Services:**
-- Reviewer: Computational Intelligence, SET LLM @ ICLR, LREC-COLING, CALDAM, EMNLP.
+- Reviewer: IJCNN 2025, Computational Intelligence, SET LLM @ ICLR, LREC-COLING, CALDAM, EMNLP.
 - Program Committee: SustaiNLP @ ACL 2023
