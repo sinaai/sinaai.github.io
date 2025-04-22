@@ -2,7 +2,11 @@
 title: Publications
 grouped: true
 ---
-- **Bagheri Nezhad, S.**, & Agrawal, A. (2025). *CROSS: Analyzing the Trade-offs in Long-Context Cross-lingual Retrieval*. The Workshop on Foundation Models in the Wild @ ICLR 2025, Singapore.([OpenReview](https://openreview.net/forum?id=sOXznQZgnM))
+- **Bagheri Nezhad, S.**, & Agrawal, A. (2025). *Enhancing Large Language Models with Neurosymbolic Reasoning for Multilingual Tasks*. The 19th International Conference on Neurosymbolic Learning and Reasoning (NeSy 2025).
+
+- **Bagheri Nezhad, S.**, Bandyapadhyay, S., & Chen, T. (2025). *Polynomial-Time Constant-Approximation for Fair Sum-of-Radii Clustering*. arXiv preprint arXiv:2504.14683. ([arXiv](https://arxiv.org/pdf/2504.14683))
+
+- **Bagheri Nezhad, S.**, & Agrawal, A. (2025). *CROSS: Analyzing the Trade-offs in Long-Context Cross-lingual Retrieval*. The Workshop on Foundation Models in the Wild @ ICLR 2025.([OpenReview](https://openreview.net/forum?id=sOXznQZgnM))
 
 - Pokharel, R., **Bagheri Nezhad, S.**, Agrawal, A., & Singh, S. (2025). *The Impact of Model Scaling on Seen and Unseen Language Performance*. The First Workshop on Scalable and Efficient Artificial Intelligence Systems @ AAAI 2025. ([arXiv](https://arxiv.org/pdf/2501.05629))
 
