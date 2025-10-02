@@ -2,9 +2,9 @@
 title: Publications
 grouped: true
 ---
-- **Bagheri Nezhad, S.**, & Agrawal, A. (2025). *Enhancing Large Language Models with Neurosymbolic Reasoning for Multilingual Tasks*. The 19th International Conference on Neurosymbolic Learning and Reasoning (NeSy 2025). ([arXiv](https://arxiv.org/pdf/2506.02483))
+- **Bagheri Nezhad, S.**, & Agrawal, A. (2025). *Enhancing Large Language Models with Neurosymbolic Reasoning for Multilingual Tasks*. The 19th International Conference on Neurosymbolic Learning and Reasoning (NeSy 2025). ([arXiv](https://arxiv.org/pdf/2506.02483), [Poster](assets/docs/Poster-NSAR-NeSy2025.pdf))
 
-- **Bagheri Nezhad, S.**, Bandyapadhyay, S., & Chen, T. (2025). *Polynomial-Time Constant-Approximation for Fair Sum-of-Radii Clustering*. The 33th European Symposium on Algorithms (ESA 2025). ([arXiv](https://arxiv.org/pdf/2504.14683))
+- **Bagheri Nezhad, S.**, Bandyapadhyay, S., & Chen, T. (2025). *Polynomial-Time Constant-Approximation for Fair Sum-of-Radii Clustering*. The 33th European Symposium on Algorithms (ESA 2025). ([arXiv](https://arxiv.org/pdf/2504.14683), [LIPIcs](https://doi.org/10.4230/LIPIcs.ESA.2025.62))
 
 - **Bagheri Nezhad, S.**, Bandyapadhyay, S., & Agrawal, A. (2025). *Fair Summarization: Bridging Quality and Diversity in Extractive Summaries*. The 3rd Workshop on Cross-Cultural Considerations in NLP (C3NLP 2025) @ NAACL 2025. ([arXiv](https://arxiv.org/pdf/2411.07521), [ACL Anthology](https://aclanthology.org/2025.c3nlp-1.3/), [GitHub](https://github.com/PortNLP/FairEXTSummarizer), [Poster](assets/docs/Poster-FairSummarization-AFME2024.pdf))
 
