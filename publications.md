@@ -2,7 +2,7 @@
 title: Publications
 grouped: true
 ---
-- **Bagheri Nezhad, S.**, & Agrawal, A. (2025). *Enhancing Large Language Models with Neurosymbolic Reasoning for Multilingual Tasks*. The 19th International Conference on Neurosymbolic Learning and Reasoning (NeSy 2025). ([arXiv](https://arxiv.org/pdf/2506.02483), [Poster](assets/docs/Poster-NSAR-NeSy2025.pdf))
+- **Bagheri Nezhad, S.**, & Agrawal, A. (2025). *Enhancing Large Language Models with Neurosymbolic Reasoning for Multilingual Tasks*. The 19th International Conference on Neurosymbolic Learning and Reasoning (NeSy 2025). ([arXiv](https://arxiv.org/pdf/2506.02483), [PMLR](https://proceedings.mlr.press/v284/nezhad25a.html), [Poster](assets/docs/Poster-NSAR-NeSy2025.pdf))
 
 - **Bagheri Nezhad, S.**, Bandyapadhyay, S., & Chen, T. (2025). *Polynomial-Time Constant-Approximation for Fair Sum-of-Radii Clustering*. The 33th European Symposium on Algorithms (ESA 2025). ([arXiv](https://arxiv.org/pdf/2504.14683), [LIPIcs](https://doi.org/10.4230/LIPIcs.ESA.2025.62))
 
