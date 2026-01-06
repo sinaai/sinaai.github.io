@@ -2,7 +2,7 @@
 title: Publications
 grouped: true
 ---
-- **Bagheri Nezhad, S.**, Li, Y. & Agrawal, A. (2025). *SymCode: A Neurosymbolic Approach to Mathematical Reasoning via Verifiable Code Generation*. arXiv preprint arXiv:2510.25975. ([arXiv](https://arxiv.org/pdf/2510.25975))
+- **Bagheri Nezhad, S.**, Li, Y. & Agrawal, A. (2026). *SymCode: A Neurosymbolic Approach to Mathematical Reasoning via Verifiable Code Generation*. Findings of ACL, The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026). ([arXiv](https://arxiv.org/pdf/2510.25975))
 
 - **Bagheri Nezhad, S.**, & Agrawal, A. (2025). *Enhancing Large Language Models with Neurosymbolic Reasoning for Multilingual Tasks*. The 19th International Conference on Neurosymbolic Learning and Reasoning (NeSy 2025). ([arXiv](https://arxiv.org/pdf/2506.02483), [PMLR](https://proceedings.mlr.press/v284/nezhad25a.html), [Poster](assets/docs/Poster-NSAR-NeSy2025.pdf))
 
