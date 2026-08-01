@@ -2,6 +2,10 @@
 title: Publications
 grouped: true
 ---
+- **Bagheri Nezhad, S.** (2026). *Signals Are Not States: Neuro-Symbolic Safeguards for Culturally Aware Classroom AI*. n Proceedings of the 1st Workshop on Stereotypes Across Cultures in Language Technologies (StereACuLT 2026) @ ACL 2026. ([arXiv](https://arxiv.org/abs/2603.22793), [ACL Anthology](https://aclanthology.org/2026.stereacult-1.9/))
+
+- **Bagheri Nezhad, S.** (2026). *Toward Culturally Grounded Natural Language Processing*. Proceedings of the 4th Workshop on Cross-Cultural Considerations in NLP (C3NLP 2026) @ ACL 2026. ([arXiv](https://arxiv.org/abs/2603.26013), [ACL Anthology](https://aclanthology.org/2026.c3nlp-1.9/))
+
 - **Bagheri Nezhad, S.**, & Agrawal, A. (2026). *Robust Long-Context Multilingual Retrieval and Reasoning Enabled by Combined Neural and Symbolic Techniques*. Neurosymbolic Artificial Intelligence. 2026;2. ([Journal](https://journals.sagepub.com/doi/full/10.1177/29498732261443192))
 - **Bagheri Nezhad, S.**, Li, Y. & Agrawal, A. (2026). *SymCode: A Neurosymbolic Approach to Mathematical Reasoning via Verifiable Code Generation*. Findings of ACL, The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026). ([arXiv](https://arxiv.org/pdf/2510.25975), [ACL Anthology](https://aclanthology.org/2026.findings-eacl.76.pdf))
 
